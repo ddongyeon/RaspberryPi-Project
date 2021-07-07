@@ -1,4 +1,5 @@
-# RaspberryPi 와 Socket 통신을 이용한 실시간 스케치 퀴즈 게임 구현
+## RaspberryPi 와 Socket 통신을 이용한 실시간 스케치 퀴즈 게임 구현
+### Sketch Quiz Game Using Raspberry-Pi & Socket Programming (김근남, 김동연)
 
 ### 개발 환경
 - C++
